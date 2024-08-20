@@ -2,6 +2,9 @@
 
 - 📖 [Remix docs](https://remix.run/docs)
 
+![remix](https://github.com/user-attachments/assets/60d4c5a5-8ab8-4864-9ae8-efe5f9f295d9)
+
+
 ## Development
 
 Run the dev server:
